@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntalRussiaTest", "AntalRussiaTest\AntalRussiaTest.csproj", "{3A2D6620-B90B-49BC-8F8B-353153E1C82C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntalRussiaUnitTest", "AntalRussiaUnitTest\AntalRussiaUnitTest.csproj", "{EDCF6EFA-C453-4347-8440-AB9E9E729B65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A2D6620-B90B-49BC-8F8B-353153E1C82C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A2D6620-B90B-49BC-8F8B-353153E1C82C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A2D6620-B90B-49BC-8F8B-353153E1C82C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A2D6620-B90B-49BC-8F8B-353153E1C82C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDCF6EFA-C453-4347-8440-AB9E9E729B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDCF6EFA-C453-4347-8440-AB9E9E729B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDCF6EFA-C453-4347-8440-AB9E9E729B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDCF6EFA-C453-4347-8440-AB9E9E729B65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFD54BB6-9103-473B-B913-D1C96617C202}
+	EndGlobalSection
+EndGlobal
